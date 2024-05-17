@@ -6,7 +6,7 @@ Objetivo: O objetivo deste projeto prático hands-on é reforçar o conhecimento
 - Conhecimentos básicos de Programação Orientada a Objetos em Java;
 - Ambiente de desenvolvimento Java configurado;
 - Acesso à internet para acesso ao projeto de referência no GitHub;
-- Familiaridade com o uso de repositórios Git (opcional, mas recomendado);
+- Familiaridade com o uso de repositórios Git;
 - Capacidade de abstração para reproduzir a solução proposta e implementar melhorias.
 
 ## Autor
